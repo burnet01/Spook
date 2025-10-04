@@ -1,11 +1,13 @@
-# 🎃 Spook - Ultra-High Performance Minecraft Hub Plugin
+# ⚡ Spook - Lightning Fast Hub Plugin
 
 [![Minecraft](https://img.shields.io/badge/Minecraft-1.8--1.21-green.svg)](https://www.minecraft.net/)
 [![Paper](https://img.shields.io/badge/Paper-Supported-blue.svg)](https://papermc.io/)
 [![Folia](https://img.shields.io/badge/Folia-Supported-purple.svg)](https://github.com/PaperMC/Folia)
 [![Performance](https://img.shields.io/badge/Performance-Ultra%20Fast-brightgreen.svg)](#performance)
+[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
+[![Status](https://img.shields.io/badge/Status-Private%20Source-orange.svg)](#)
 
-> **Ultra-optimized Minecraft hub plugin designed for maximum performance and minimal CPU usage.**
+> **Professional-grade, proprietary Minecraft hub plugin engineered for enterprise performance and reliability.**
 
 ## ✨ Features
 
@@ -51,10 +53,12 @@ Spook is built from the ground up for **extreme performance**:
 
 ## 📦 Installation
 
-1. Download the latest `Spook.jar` from [Releases](../../releases)
-2. Place in your server's `plugins/` folder
-3. Restart your server
-4. Configure in `plugins/Spook/config.yml`
+1. **Purchase/Obtain License**: Contact us for licensing and download access
+2. Download the latest `Spook.jar` from your licensed download link
+3. Place in your server's `plugins/` folder
+4. Restart your server
+5. Configure in `plugins/Spook/config.yml`
+6. **Important**: This software is licensed - see [License](#license) for terms
 
 ## ⚙️ Configuration
 
@@ -115,15 +119,19 @@ Currently, Spook operates through item interactions only. All features are trigg
 ### Plugin Dependencies
 - **None required** - Spook is completely standalone
 
-## 🏗️ Building
+## 📝 License & Usage
 
-```bash
-git clone https://github.com/TheCraft-rip/Spook.git
-cd Spook
-mvn clean package
-```
+**Spook is proprietary software.** The source code is private and protected by copyright law.
 
-The compiled JAR will be in `target/spook-[version].jar`
+### License Terms:
+- ✅ **Commercial Use Permitted**: Use on revenue-generating servers
+- ✅ **Server Deployment**: Install on multiple servers you own/operate
+- ✅ **Backup Copies**: Make archival copies for your own use
+- ❌ **No Redistribution**: Cannot share, sell, or distribute to others
+- ❌ **No Reverse Engineering**: Cannot decompile or modify
+- ❌ **No Source Access**: Source code is not provided
+
+See the full [LICENSE](LICENSE) file for complete terms and conditions.
 
 ## 📊 Monitoring
 
@@ -140,23 +148,20 @@ Monitor your server's performance with tools like:
 - TimingsV2
 - Built-in `/tps` commands
 
-## 🤝 Contributing
+## 🤝 Support & Contact
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+**This is proprietary software with private source code.**
 
-### Development Guidelines
-- **Performance First**: All code must be optimized for minimal CPU usage
-- **Cross-Version**: Maintain compatibility with Minecraft 1.8+
-- **Thread Safety**: Ensure Folia compatibility with proper scheduling
-- **Documentation**: Comment performance-critical sections
+For support, licensing inquiries, or custom modifications:
+- 📧 Contact: [Your Email]
+- 💬 Discord: [Your Discord]
+- 🐛 Bug Reports: Use the Issues section above
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+### Professional Services Available:
+- Custom feature development
+- Performance optimization consulting  
+- Enterprise support contracts
+- Multi-server deployment assistance
 
 ## 🐛 Bug Reports
 

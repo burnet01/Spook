@@ -1,0 +1,73 @@
+#################################################
+#            HubCore Configuration              #
+#     Optimized for Folia & Paper compatibility #
+#################################################
+
+# Hub Items Configuration
+ITEM:
+  SERVER_SELECTOR:
+    MATERIAL: BOOK
+    SLOT: 4
+    NAME: "&6&lServers"
+  ENDER_BUTT:
+    MATERIAL: ENDER_PEARL
+    SLOT: 3
+    NAME: "&b&lEnderButt"
+    SOUND: "ENTITY_ENDERMAN_TELEPORT"
+
+# GUI Decoration
+GLASS_PANE:
+  MATERIAL: STAINED_GLASS_PANE
+  NAME: " "
+  AMOUNT: 1
+  VALUE: 0
+
+# General Settings
+SETTINGS:
+  ALWAYS_SUNNY: true
+  PREVENT_WEATHER: true
+  PREVENT_HUNGER: true
+  PREVENT_DAMAGE: true
+  CLEAR_CHAT_ON_JOIN: true
+
+# Simple Server Configuration
+# Just add servers here - it's that easy!
+servers:
+  # Server name (can be anything)
+  lobby:
+    # Display name in the GUI
+    name: "&a&lMain Lobby"
+    # Material for the item icon
+    material: "GRASS"
+    # Description lines
+    lore:
+      - ""
+      - "&7• &fMain hub server"
+      - "&7• &fSpawn point for all players"
+      - ""
+      - "&a» Click to join!"
+    # Command to run (player will execute this)
+    command: "server lobby"
+    
+  # Add more servers like this:
+  survival:
+    name: "&2&lSurvival"
+    material: "DIAMOND_SWORD"
+    lore:
+      - ""
+      - "&7• &fSurvival gameplay"
+      - "&7• &fBuild and explore!"
+      - ""
+      - "&a» Click to join!"
+    command: "server survival"
+    
+  creative:
+    name: "&6&lCreative"
+    material: "GOLD_PICKAXE"
+    lore:
+      - ""
+      - "&7• &fCreative building"
+      - "&7• &fUnlimited blocks!"
+      - ""
+      - "&a» Click to join!"
+    command: "server creative"

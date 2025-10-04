@@ -1,0 +1,12 @@
+name: spook
+version: 0.0.1
+main: rip.thecraft.spook.Spook
+author: SaifSharof
+description: HubCore for your server!
+api-version: 1.13
+folia-supported: true
+permissions:
+  hub.command.place:
+    description: Allows you to place blocks
+  hub.command.break:
+    description: Allows you to break blocks

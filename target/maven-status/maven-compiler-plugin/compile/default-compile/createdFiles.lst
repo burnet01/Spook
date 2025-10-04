@@ -1,0 +1,15 @@
+rip/thecraft/spook/features/AlwaysDay.class
+rip/thecraft/spook/util/ConfigManager.class
+rip/thecraft/spook/util/CC.class
+rip/thecraft/spook/features/PlayerListener.class
+rip/thecraft/spook/util/LocationUtil.class
+rip/thecraft/spook/features/DoubleJump.class
+rip/thecraft/spook/util/ObjectPool.class
+rip/thecraft/spook/Spook.class
+rip/thecraft/spook/util/ConfigManager$ConfigDefaults.class
+rip/thecraft/spook/util/SchedulerUtil.class
+rip/thecraft/spook/server/ServerSelector.class
+rip/thecraft/spook/util/ItemBuilder.class
+rip/thecraft/spook/features/EnderButt.class
+rip/thecraft/spook/util/MaterialUtil.class
+rip/thecraft/spook/util/FastItemUtil.class

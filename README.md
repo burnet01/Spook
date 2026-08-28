@@ -64,7 +64,7 @@ If it works for you, you are free to use, modify, adapt, redistribute, or claim 
 ## Contributors
 
 - @Burnet01
-- @SaifSharof (forked from HubCore)
+- @SaifSharof (forked from [HubCore](https://github.com/SaifSharof/HubCore))
 
 ## License
 
@@ -72,7 +72,7 @@ See the [LICENSE](LICENSE) file for the full terms.
 
 ## Acknowledgments
 
-- Forked from SaifSharof's HubCore
+- Forked from [SaifSharof's HubCore](https://github.com/SaifSharof/HubCore)
 - Built for a specific Minecraft hub setup
 - Older code, but still useful for learning or adaptation
 

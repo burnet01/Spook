@@ -1,6 +1,6 @@
 # Spook
 
-[![Build](https://github.com/burnet01/Spook/actions/workflows/build.yml/badge.svg)](https://github.com/burnet01/Spook/actions/workflows/build.yml)
+[![Build](https://github.com/burnet01/Spook/actions/workflows/build.yml/badge.svg)](https://github.com/burnet01/Spook/actions/workflows/release.yml)
 
 A lightweight Minecraft hub plugin built for Paper/Spigot-style servers. This project is older and may not be fully compatible with newer server versions or modern plugin APIs. It is provided as-is, without warranty, support guarantees, or liability.
 

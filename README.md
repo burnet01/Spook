@@ -52,7 +52,7 @@ This plugin is primarily item-driven, with actions triggered through configured 
 
 - Paper: supported
 - Spigot: supported in many setups
-- Folia: may require testing or adaptation
+- Folia: designed to be broadly compatible with modern async server environments, though it may still need a quick check in your setup
 - Minecraft: originally built for older versions and may not work cleanly on newer releases
 
 ## Important Note
